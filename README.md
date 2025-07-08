@@ -11,7 +11,7 @@ At **CloudTechHacks**, we are committed to transforming traditional IT into mode
 
 ---
 
-## 🎯 **Why Choose CloudTechHacks?**
+## 🎯 **Why Choose NIAI?**
 
 ✅ **Real-World, Hands-On Training** – Work on live projects and real-time use cases
 ✅ **AI-Infused Consulting Services** – Leverage AI to drive smarter DevOps practices
